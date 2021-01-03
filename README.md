@@ -98,7 +98,7 @@ Slides [PDF](https://cloud.tsinghua.edu.cn/f/f76dd40049724f358d61/)
 
 - Please consulting your Proposal / Abstract (1-2 Pages) with Prof Ding **BEFORE Week 14**
 
-- Presentation will be held in **Week 16**
+- Presentation will be held in **Week 16 （2021-1-11）**
 
 - Final technical report / review paper submmit **BEFORE week 18**
 
