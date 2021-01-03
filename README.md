@@ -72,6 +72,7 @@ Theoretical Modeling and Power Management of Triboelectric Nanogenrators [Slides
 ### Week 10
 
 Lecture by Prof. Zhonglin Wang [Poster](https://www.tbsi.edu.cn/index.php?s=/cms/1627.html)
+
 王中林院士中文讲座 [MP4](https://cloud.tsinghua.edu.cn/d/938eaaf81e594e98a970/)
 
 ### Week 11
@@ -98,9 +99,9 @@ Slides [PDF](https://cloud.tsinghua.edu.cn/f/f76dd40049724f358d61/)
 
 - Please consulting your Proposal / Abstract (1-2 Pages) with Prof Ding **BEFORE Week 14**
 
-- Presentation will be held in **Week 16 （2021-1-11）**
+- Presentation will be held in **Week 16**
 
-- Final technical report / review paper submmit **BEFORE week 18**
+- Final technical report / review paper submmit **Week 18 （2021-1-11）**
 
 IEEE template (MS Word and LaTex) [ZIP](https://cloud.tsinghua.edu.cn/f/d194ed13aa844edd80ac/)
 
