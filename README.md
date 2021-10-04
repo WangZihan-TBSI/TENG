@@ -57,7 +57,19 @@ Note: The first or corresponding authors are Niu Simiao, Zi Yunlong, Guo Hengyu,
 
 ### Week 1 Introduction
 
-Slides [PDF](https://cloud.tsinghua.edu.cn/f/3b6dfd0142284603b75f/)
+[Slides PDF](./slides/Week1.pdf)
+
+### Week 2 & 3 Fundamentals on electrical
+
+[Slides PDF](./slides/Week2_3.pdf)
+
+### Week 4 Talk by Prof. Yunlong Zi
+
+Recommend reading
+
+[OCT TENG](https://www.nature.com/articles/s41467-021-25753-7)
+
+[TENG for long distance wirless communication](https://www.science.org/doi/full/10.1126/sciadv.abi6751)
 
 ## Final Project and Presentation
 
